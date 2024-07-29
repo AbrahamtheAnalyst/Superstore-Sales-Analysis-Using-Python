@@ -1,6 +1,9 @@
 # Superstore Sales Analysis
 ##### *PREPARED BY ABRAHAM MAURICE* 
 
+![Sales Analysis again](https://github.com/user-attachments/assets/dc17f806-3985-4f6e-8a51-9c2e6a3602bd)
+
+
 ### PROBLEM STATEMENT 
 The superstore dataset provides sales and profit data for a variety of products across different categories and regions. 
 The goal of this project is to analyse the data and identify insights that can help the company improve its business performance. 
@@ -120,3 +123,29 @@ The bar chart shows that the West region has the highest sales.
 **RESULT 4**: The hypothesis is **not** supported as the company does not make more profit on weekdays than on weekends. On the contrast, we can clearly see that the highest profit made is on Sunday while the lowest is on Wednesday.
 
 
+### SUMMARY 
+Based on the analysis, it can be concluded that: 
+
+- Technology products have the highest profit margin compared to other product categories. 
+
+- The East region does not have the highest sales compared to other regions. The data shows that the West region has the highest sales. 
+
+- Sales are higher during certain months of the year. However, the hypothesis that the company’s profit is more on weekdays than on weekends is not supported by the data. 
+
+These conclusions provide valuable insights into the company’s performance and can guide future decision-making processes. 
+
+It is important to note that further investigation may be required to fully understand the underlying factors influencing these observations. 
+
+ 
+### RECOMMENDATIONS 
+
+- The company should focus on developing and promoting technology products to increase its profits. They could also consider reducing the production and promotion of products with lower profit margins. 
+
+- West region has the highest sales compared to other regions. Therefore, the company could consider increasing its focus on this region. For the other regions, the marketing and sales strategies should be re-evaluated. 
+
+- The company should focus on maximizing sales during the months of November and December. This could involve increasing the inventory of popular products during this time, running target marketing campaigns, and offering discounts to customers. 
+
+- The company should also consider strategies to maintain sales during other months, such as introducing new products or offering promotions and discounts during slower months. 
+
+ 
+![Thank you](https://github.com/user-attachments/assets/bd1f7839-a002-4e31-a0eb-15de1350f284)
