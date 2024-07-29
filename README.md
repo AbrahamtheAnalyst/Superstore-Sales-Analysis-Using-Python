@@ -3,8 +3,20 @@
 
 ![Sales Analysis again](https://github.com/user-attachments/assets/dc17f806-3985-4f6e-8a51-9c2e6a3602bd)
 
+## Table of Contents
 
-### PROBLEM STATEMENT 
+- [PROJECT OVERVIEW](#project-overview)
+- [DATA CLEANING PROCESS](#data-cleaning-process)
+- [DATA EXPLORATION](#data-exploration)
+- [ASSUMPTIONS](#assumptions)
+- [RESEARCH QUESTIONS](#research-questions)
+- [HYPOTHESIS TESTING](hypothesis-testing)
+- [SUMMARY](#summary)
+- [RECOMMENDATIONS](#recommendations)
+
+---
+
+### PROJECT OVERVIEW 
 The superstore dataset provides sales and profit data for a variety of products across different categories and regions. 
 The goal of this project is to analyse the data and identify insights that can help the company improve its business performance. 
 Specifically, I aim to answer questions such as: which regions have the highest sales and profit? Which product categories are the most profitable? What are the most profitable products? 
@@ -106,21 +118,29 @@ Building on these research questions, a set of hypotheses have been formulated a
 
 **RESULT 1**: The hypothesis is supported as technology products have the highest profit margin of the three categories. 
 
+---
+
 ![Hypothesis 2 code](https://github.com/user-attachments/assets/8805b830-bdda-4f49-98b8-eacb629a155e)
 ![Hypothesis 2 chart](https://github.com/user-attachments/assets/051cb950-00ee-472a-8fe5-e14e12c0c997)
 
 **RESULT 2**: The hypothesis is **not** supported as the East region does not have the highest sales compared to other regions. 
 The bar chart shows that the West region has the highest sales. 
 
+---
+
 ![Hypothesis 3 code](https://github.com/user-attachments/assets/63e5b204-43ad-43d3-9aee-83f8a74ae5c4)
 ![Hypothesis 3 chart](https://github.com/user-attachments/assets/ec1c532b-fa1d-42c6-a160-d192d6e3567c)
 
 **RESULT 3**: The hypothesis is supported as sales are higher during certain months of the year.
 
+---
+
 ![Hypothesis 4 code](https://github.com/user-attachments/assets/4e2a1cec-3c46-413c-ae3f-cdf3ed77b148)
 ![Hypothesis 4 chart](https://github.com/user-attachments/assets/972856bd-e4ce-4b71-9baa-59cc2b7f7068)
 
 **RESULT 4**: The hypothesis is **not** supported as the company does not make more profit on weekdays than on weekends. On the contrast, we can clearly see that the highest profit made is on Sunday while the lowest is on Wednesday.
+
+---
 
 
 ### SUMMARY 
