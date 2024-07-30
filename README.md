@@ -6,7 +6,7 @@
 ## Table of Contents
 
 - [PROJECT OVERVIEW](#project-overview)
-- [DATA CLEANING PROCESS](#data-cleaning-process)
+- [EXPLORATORY DATA ANALYSIS](#exploratory-data-analysis)
 - [ASSUMPTIONS](#assumptions)
 - [RESEARCH QUESTIONS](#research-questions)
 - [SUMMARY](#summary)
@@ -20,9 +20,11 @@ The goal of this project is to analyse the data and identify insights that can h
 Specifically, I aim to answer questions such as: which regions have the highest sales and profit? Which product categories are the most profitable? What are the most profitable products? 
 By answering these questions, I hope to provide recommendations for the company on how to optimize its products offerings and improve its revenue and profitability. 
 
-### DATA CLEANING PROCESS
-- Once I have defined the problem, I need to gather the data I’ll need to analyse and also clean the data to ensure it is accurate, complete, and consistent. 
-- Here is the primary dataset used for this analysis : [Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
+### EXPLORATORY DATA ANALYSIS
+I need to gather the data and do some exploratory data analysis on it. 
+
+**Here is the primary dataset used for this analysis : [Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)**
+---
 
  #### TOOLS 
 - I will use the Jupyter notebook in Python environment for the data cleaning process. 😃 💻
