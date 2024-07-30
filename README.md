@@ -32,9 +32,9 @@ By answering these questions, I hope to provide recommendations for the company 
 
  
 ### RESEARCH QUESTIONS 
-I am interested in understanding which factors contribute to high sales in the Super Store. 
+I am interested in understanding: 
 
-- **Which product categories have the highest profit margins in the Super Store?**
+- **Which product categories have the highest profit margins in the superstore?**
 - **Are there any significant differences in sales between the East region and other region?**
 - **How do sales vary by product category during different months of the year?**
 - **How do sales and profit vary by product category on weekdays compared to weekends?** 
