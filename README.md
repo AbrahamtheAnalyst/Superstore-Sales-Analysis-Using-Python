@@ -1,16 +1,6 @@
 # Superstore Sales Analysis
-##### *PREPARED BY ABRAHAM MAURICE* 
 
 ![Sales Analysis again](https://github.com/user-attachments/assets/dc17f806-3985-4f6e-8a51-9c2e6a3602bd)
-
-## Table of Contents
-
-- [PROJECT OVERVIEW](#project-overview)
-- [EXPLORATORY DATA ANALYSIS](#exploratory-data-analysis)
-- [ASSUMPTIONS](#assumptions)
-- [RESEARCH QUESTIONS](#research-questions)
-- [SUMMARY](#summary)
-- [RECOMMENDATIONS](#recommendations)
 
 ---
 
@@ -20,8 +10,6 @@ The goal of this project is to analyse the data and identify insights that can h
 Specifically, I aim to answer questions such as: which regions have the highest sales and profit? Which product categories are the most profitable? What are the most profitable products? 
 By answering these questions, I hope to provide recommendations for the company on how to optimize its products offerings and improve its revenue and profitability. 
 
-### EXPLORATORY DATA ANALYSIS
-I need to gather the data and do some exploratory data analysis on it. 
 
 **Here is the primary dataset used for this analysis : [Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)**
 ---
@@ -92,5 +80,3 @@ It is important to note that further investigation may be required to fully unde
 
 - The company should also consider strategies to maintain sales during other months, such as introducing new products or offering promotions and discounts during slower months. 
 
- 
-![Thank you](https://github.com/user-attachments/assets/bd1f7839-a002-4e31-a0eb-15de1350f284)
