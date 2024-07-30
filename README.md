@@ -10,7 +10,7 @@
 - [DATA EXPLORATION](#data-exploration)
 - [ASSUMPTIONS](#assumptions)
 - [RESEARCH QUESTIONS](#research-questions)
-- [HYPOTHESIS TESTING](hypothesis-testing)
+- [HYPOTHESIS TESTING](#hypothesis-testing)
 - [SUMMARY](#summary)
 - [RECOMMENDATIONS](#recommendations)
 
