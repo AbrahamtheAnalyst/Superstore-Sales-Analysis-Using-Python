@@ -27,8 +27,8 @@ By answering these questions, I hope to provide recommendations for the company 
 - Here is the primary dataset used for this analysis : [Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 
  #### TOOLS 
-- I will use the Jupyter notebook in Python environment for the data cleaning process. 😃
-- The libraries we will be using includes:
+- I will use the Jupyter notebook in Python environment for the data cleaning process. 😃 💻
+- The libraries I will be using includes:
   1. Pandas for *data cleaning and analysis.*
   2. Matplotlib.pyplot for *visualisation.*
 
