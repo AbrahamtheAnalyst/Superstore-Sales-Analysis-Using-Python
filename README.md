@@ -32,8 +32,6 @@ By answering these questions, I hope to provide recommendations for the company 
 
  
 ### RESEARCH QUESTIONS 
-I am interested in understanding: 
-
 - **Which product categories have the highest profit margins in the superstore?**
 - **Are there any significant differences in sales between the East region and other region?**
 - **How do sales vary by product category during different months of the year?**
